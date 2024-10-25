@@ -30,9 +30,28 @@ Foi solicitado que ao  clicar no botão avançar, o projeto carregasse mais 10 c
 - Node JS(v20.15.0)
 
 ## Como executar o projeto
-
-
+Na sua área de trabalho, abra o terminal e digite os seguintes comandos:
+```
+1 git clone https://github.com/augusto-dlima/pokemonList-exercise-devQuest.git
 ```
 
 ```
+2 cd pokemonList-exercise-devQuest/
+```
+
+```
+3 npm install
+```
+
+```
+4 npm run dev
+```
+
+Deverá aparecer o link onde está rodando o projeto conforme na imagem a seguir, depois disso é necessário copiar o link e adicionar na URL do navegador: 
+
+<img src="./src/images/localhost.png">
+
+
+
+
 
